@@ -22,3 +22,5 @@ Welcome to the official bug reports and suggestions repository for MC Exotic Tow
 8. **Updates on Reports:** If the development team requires more information about a bug you've reported, they may reach out in the report's comments. Check your report periodically for any updates or questions.
 9. **No Bug Exploitation:** If you've found a bug that can be exploited in the game, please refrain from publicizing the exploit. Instead, reach out to the development team directly and privately.
 10. **Feedback Loop:** While the development team will review all bug reports and suggestions, not all will be implemented or addressed immediately. Your patience and understanding are appreciated.
+> [!WARNING]\
+> Hi
