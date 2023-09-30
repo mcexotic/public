@@ -1,7 +1,7 @@
-# Welcome to MC Exotic public repository
+# MC Exotic Public Repository
 
-## What is this?
-Welcome to the official bug reports and suggestions repository for MC Exotic Towny server. This platform is dedicated to improving the gameplay experience by addressing technical issues and considering valuable feedback. We encourage our players to actively report bugs and share innovative ideas that can enhance the overall game experience.
+## What is this? Bug reports? Suggestions...?
+Welcome to the MC Exotic public repository! We're dedicated to improving our game, addressing any technical issues, and valuing your feedback. We encourage players to report bugs and share suggestions that can better the game for everyone. Let's work together to enhance MC Exotic!
 
 ## Rules & Guidelines:
 
