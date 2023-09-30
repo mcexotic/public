@@ -70,8 +70,13 @@ Let's work together to enhance MC Exotic!  </p>
     
 16. **No Bug Exploitation:**
 
-    ```
-    If you've found a bug that can be exploited in the game, please refrain from publicizing the exploit. Instead, reach out to the development team directly and privately.
+    ```yml
+    If you've found a bug that can be exploited in the game, please refrain from publicizing the exploit. Instead,
+    reach out to the development team directly and privately.
+    
 18. **Feedback Loop:**
-    > While the development team will review all bug reports and suggestions, not all will be implemented or addressed immediately. Your patience and understanding are appreciated.
+
+    ```yml
+    While the development team will review all bug reports and suggestions, not all will be implemented or
+    addressed immediately. Your patience and understanding are appreciated.
 
