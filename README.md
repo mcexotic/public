@@ -1,6 +1,7 @@
-# MC Exotic Public Repository
+<p align='center'><a href="https://ibb.co/2gZZxQw"><img src="https://i.ibb.co/2gZZxQw/mcx.png" alt="mcx" border="0" width=15%></a></p>
+<h1 align='center'> MC Exotic Public Repository </h1>
+<img src="https://custom-icon-badges.demolab.com/badge/-MCX%20Discord-purple?style=for-the-badge&logo=Discord&logoColor=white" alt="mcx"/></a>
 
-## What is this? Bug reports? Suggestions...?
 Welcome to the MC Exotic public repository! We're dedicated to improving our game, addressing any technical issues, and valuing your feedback. We encourage players to report bugs and share suggestions that can better the game for everyone. Let's work together to enhance MC Exotic!
 
 ## Rules & Guidelines:
