@@ -1,6 +1,9 @@
-<p align='center'><a href="https://ibb.co/2gZZxQw"><img src="https://i.ibb.co/2gZZxQw/mcx.png" alt="mcx" border="0" width=15%></a></p>
-<h1 align='center'> MC Exotic Public Repository </h1>
-<img src="https://custom-icon-badges.demolab.com/badge/-MCX%20Discord-purple?style=for-the-badge&logo=Discord&logoColor=white" alt="mcx"/></a>
+<p align='center'><a href="#"><img src="https://i.ibb.co/2gZZxQw/mcx.png" alt="mcx" border="0" width=15%></a></p>
+<h1 align='center'>MC Exotic Public Repository</h1>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://discord.gg/' align='left'><img src="https://custom-icon-badges.demolab.com/discord/937775755268599869?style=for-the-badge&logo=discord&logoColor=white&label=MCX Discord&labelColor=thite&color=magenta" alt="mcx discord"/></a><a align='left' href='https://store.themcx.com/'><img src="https://custom-icon-badges.demolab.com/badge/952%20purchases-f2851f?style=for-the-badge&logo=basket-op&logoColor=white&label=MC%20Exotic%20Store&color=f2851f" alt="mcx store"/></a><a href='https://themcx.com/'><img src="https://custom-icon-badges.demolab.com/badge/JOIN%20US%20TODAY-14b758?style=for-the-badge&logo=mcblock&label=themcx.com&color=19d389" alt="mcx tonwy"/></a><a align='right'><img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCDavgpsuFi_bv0r_mpDHr1g?style=for-the-badge&logo=youtube&label=MCX%20Youtube&link=https%3A%2F%2Fwww.youtube.com%2F%40mcexotic%2Ffeatured"></a>
+
+
 
 Welcome to the MC Exotic public repository! We're dedicated to improving our game, addressing any technical issues, and valuing your feedback. We encourage players to report bugs and share suggestions that can better the game for everyone. Let's work together to enhance MC Exotic!
 
