@@ -7,8 +7,7 @@
 
 Welcome to the MC Exotic public repository! We're dedicated to improving our game, addressing any technical issues, and valuing your feedback. We encourage players to report bugs and share suggestions that can better the game for everyone. Let's work together to enhance MC Exotic!
 
-## Rules & Guidelines:
-
+## 📖 Submission Guidelines
 1. **Search Before Posting:** Before submitting a bug report or suggestion, please search the repository to ensure it hasn't been reported or suggested before. Duplicate entries will be closed.
 2. **Detailed Bug Reports:** When reporting a bug, be as detailed as possible. Include:
 
