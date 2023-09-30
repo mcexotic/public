@@ -30,13 +30,15 @@ Let's work together to enhance MC Exotic!  </p>
     + Steps to reproduce the issue.
     + Expected outcome vs. what actually happened.
     + Screenshots or videos, if possible.
-    + Any other relevant information (e.g., device specifications, in-game settings).
+    + Any other relevant information
+      (e.g., device specifications, in-game settings).
      
 4. **Be Constructive:**
    
     ```yml
-    When submitting suggestions, explain the reason behind your idea and how it would improve the game.
-    Avoid submitting vague or broad suggestions; the more detailed, the better
+    When submitting suggestions, explain the reason behind your idea and how it
+    would improve the game. Avoid submitting vague or broad suggestions; the more
+    detailed, the better
    
 5. **Stay Respectful:**
 
@@ -65,18 +67,21 @@ Let's work together to enhance MC Exotic!  </p>
 14. **Updates on Reports:**
 
     ```yml
-    If the development team requires more information about a bug you've reported, they may reach out in the
-    report's comments. Check your report periodically for any updates or questions.
+    If the development team requires more information about a bug you've reported,
+    they may reach out in the report's comments. Check your report periodically for
+    any updates or questions.
     
 16. **No Bug Exploitation:**
 
     ```yml
-    If you've found a bug that can be exploited in the game, please refrain from publicizing the exploit. Instead,
-    reach out to the development team directly and privately.
+    If you've found a bug that can be exploited in the game, please refrain from
+    publicizing the exploit. Instead, reach out to the development team directly
+    and privately.
     
 18. **Feedback Loop:**
 
     ```yml
-    While the development team will review all bug reports and suggestions, not all will be implemented or
-    addressed immediately. Your patience and understanding are appreciated.
+    While the development team will review all bug reports and suggestions,
+    not all will be implemented or addressed immediately. Your patience and
+    understanding are appreciated.
 
