@@ -1,3 +1,6 @@
+> [!WARNING]\
+> This repository is still underconstruction and not yet active.
+
 <a align='center' href="https://ibb.co/jDR2Qm4"><img src="https://i.ibb.co/QjjfbW3/Exotic-MC-Background-Banndic.png" alt="Exotic-MC-Background" border="0"></a>
 
 <!--<p align='center'><a href="#"><img src="https://i.ibb.co/2gZZxQw/mcx.png" alt="mcx" border="0" width=15%></a></p> -->
