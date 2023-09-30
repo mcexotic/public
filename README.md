@@ -26,7 +26,7 @@ Let's work together to enhance MC Exotic!  </p>
    ```yml
     When reporting a bug, be as detailed as possible. Include:
     
-    + A concise title that summarizes the bug.
+    + A descriptive title that summarizes the bug.
     + Steps to reproduce the issue.
     + Expected outcome vs. what actually happened.
     + Screenshots or videos, if possible.
